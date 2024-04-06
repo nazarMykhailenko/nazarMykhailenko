@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nazar Mykhailenko</h1>
-<h3 align="center">A beginner frontend developer from UK</h3>
+<h3 align="center">As an eager front-end developer, I'm proficient in HTML, CSS, JavaScript, React, and TypeScript. Passionate about creating user friendly web interfaces, I'm committed to staying abreast of the latest trends and technologies in web development. Ready to contribute my skills to dynamic projects and collaborate with innovative teams</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazarmykhailenko&label=Profile%20views&color=0e75b6&style=flat" alt="nazarmykhailenko" /> </p>
+<h3 alight="start">My technology stack:</h3>
+<ul>
+  <li>Hello</li>
+  <li>Hello</li>
+</ul>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **9142359911n@gmail.com**
 
