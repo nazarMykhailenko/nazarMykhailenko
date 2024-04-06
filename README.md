@@ -9,13 +9,20 @@
 <br />
 <br /> 
 
-<h3 alight="start">My technology stack:</h3>
-<ul>
-  <li>🛠 HTML/CSS, SCSS, Tailwind, MaterialUI</li>
-  <li>🛠 JavaScript, Typescipt</li>
-  <li>🛠 React, Redux/Redux Toolkit, NextJS</li>
-  <li>🛠 Webpack, Vite, Git, Axios, RestAPI</li>
-</ul>
+<div display="flex">
+  <div>
+    <h3 alight="start">My technology stack:</h3>
+    <ul>
+      <li>🛠 HTML/CSS, SCSS, Tailwind, MaterialUI</li>
+      <li>🛠 JavaScript, Typescipt</li>
+      <li>🛠 React, Redux/Redux Toolkit, NextJS</li>
+      <li>🛠 Webpack, Vite, Git, Axios, RestAPI</li>
+    </ul>
+  </div>
+  <div>
+    <iframe src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a     href="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">via GIPHY</a></p>
+  </div>
+</div>
 
 
 
